@@ -1,6 +1,6 @@
 language
 
-![f37ec9a3b821436664b4ae3458627b9a.png](../_resources/a32b85999c744f31842d52702372197e.png)
+# 第一章 语言
 
 # 集合
 
